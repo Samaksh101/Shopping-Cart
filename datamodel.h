@@ -67,7 +67,6 @@ public:
 	}
 
 	int getTotal(){
-		//Todo
 		int total = 0;
 		for(auto itemPair : items){
 			auto item = itemPair.second;
