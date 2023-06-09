@@ -4,12 +4,12 @@
 using namespace std;
 
 vector<Product> allProducts = {
-	Product(1,"apple",26),
-	Product(3,"mango",16),
-	Product(2,"guava",36),
-	Product(5,"banana",56),
-	Product(4,"strawberry",29),
-	Product(6,"pineapple",20),
+	Product(1,"(a)pple",26),
+	Product(3,"(m)ango",46),
+	Product(2,"(g)uava",33),
+	Product(5,"(b)anana",12),
+	Product(4,"(s)trawberry",29),
+	Product(6,"(p)ineapple",20),
 };
 
 Product* chooseProduct(){
